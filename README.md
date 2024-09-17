@@ -11,10 +11,6 @@ This project is a **sales analysis dashboard** built using the AdventureWorks 20
 
 ## Datasets and Visuals
 
-- **category_name**: This table categorizes each product.
-![category_name](https://github.com/user-attachments/assets/6a4aa24b-9938-4e40-83e6-f8948a499973)
-
-
 - **Sales_products**: This table includes product information, sales details like order quantity, profit, and more.
 ![sales_products](https://github.com/user-attachments/assets/534b9fad-a594-4d62-b5d9-d5cc3cf951d0)
 
@@ -22,6 +18,8 @@ This project is a **sales analysis dashboard** built using the AdventureWorks 20
 ![sales_orders](https://github.com/user-attachments/assets/2b6c0704-7851-47ba-a5e9-296611ddfa97)
 ![sales_orders](https://github.com/user-attachments/assets/c7a34b3b-19c3-454a-be10-4a7fcb64322e)
 
+- **category_name**: This table categorizes each product.
+![category_name](https://github.com/user-attachments/assets/6a4aa24b-9938-4e40-83e6-f8948a499973)
 
 ## Key Metrics
 - **Total Sales**: Calculated as the sum of sales amounts.
